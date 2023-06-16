@@ -1,5 +1,7 @@
 ### IntelliJ IDEA ###
 out/
+.idea
+Java-FS.iml
 !**/src/main/**/out/
 !**/src/test/**/out/
 
