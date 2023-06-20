@@ -13,6 +13,6 @@ public class RemoveLastObject {
         arrayList.add("siri");
 
         int size = arrayList.size();
-        System.out.println(arrayList.get(size - 1));
+        System.out.println("Last object in ArrayList is " + arrayList.get(size - 1));
     }
 }
